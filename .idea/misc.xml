@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AMT/win codigos fuentes/codigos fuente/apk colombia/Conductor V1.4/app/src/main/res/layout/dialog_request_layout.xml" value="0.25625" />
+        <entry key="..\:/AMT/win codigos fuentes/codigos fuente/apk colombia/Conductor V1.4/app/src/main/res/layout/helpview.xml" value="0.24947916666666667" />
+        <entry key="..\:/AMT/win codigos fuentes/codigos fuente/apk colombia/Conductor V1.4/app/src/main/res/layout/navigation_drawer_layout.xml" value="0.25625" />
+        <entry key="..\:/AMT/win codigos fuentes/codigos fuente/apk colombia/Conductor V1.4/app/src/main/res/layout/register.xml" value="0.24947916666666667" />
+        <entry key="..\:/AMT/win codigos fuentes/codigos fuente/apk colombia/Conductor V1.4/app/src/main/res/layout/register_fragment.xml" value="0.2569190600522193" />
+        <entry key="..\:/apk funcional de colombia/nuevoColombia/Conductor V1.4/app/src/main/res/layout/activity_profile.xml" value="0.3125" />
+        <entry key="..\:/apk funcional de colombia/nuevoColombia/Conductor V1.4/app/src/main/res/layout/activity_welcome.xml" value="0.24947916666666667" />
+        <entry key="..\:/apk funcional de colombia/nuevoColombia/Conductor V1.4/app/src/main/res/layout/register_fragment.xml" value="0.24947916666666667" />
+        <entry key="..\:/apk funcional de colombia/nuevoColombia/Conductor V1.4/app/src/main/res/layout/spinner_item.xml" value="0.3125" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/drawable/drawable_edittext_background2.xml" value="0.3355" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/drawable/drawable_edittext_background3.xml" value="0.3355" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/drawable/gift_app.xml" value="0.3355" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/drawable/ic_directions_car_black_24dp.xml" value="0.298" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/drawable/ic_share_black_24dp.xml" value="0.1955" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/activity_profile.xml" value="0.20018115942028986" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/dialog_request_layout.xml" value="0.29030797101449274" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/helpview.xml" value="0.23278985507246377" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/login.xml" value="0.33" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/register.xml" value="0.3229166666666667" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/register_fragment.xml" value="0.25" />
+        <entry key="..\:/win ecuador completo/colombia/Conductor V1.4/app/src/main/res/layout/spinner_value_layout.xml" value="0.16875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
